@@ -1,0 +1,165 @@
+
+body{
+  margin:0;
+}
+h1{
+  margin: 0 auto 0 auto;
+  font-family: 'Clicker Script', cursive;
+  font-size: 5em;
+  padding-top: 50px;
+  color: #66BFBF;
+  font-weight: normal;
+  line-height:2;
+}
+h2{
+  font-family: 'Muli', sans-serif;
+  color: #66BFBF;
+
+
+}
+h3{
+  font-family: 'Muli', sans-serif;
+  color:#11999E ;
+  font-size: 1.2em;
+}
+p{
+  font-family: 'Muli', sans-serif;
+
+}
+
+.top-container{
+  background-color: #e4f9f5;
+  text-align: center;
+  padding-top:100px;
+
+}
+.middle-container{
+ text-align: center;
+
+}
+.bottom-container{
+  text-align: center;
+  background-color:#66BFBF;
+  margin:0 auto;
+  height:100px;
+  color:white;
+  padding-top: 50px;
+
+}
+.footer-link{
+  font-family: 'Muli', sans-serif;
+  color:#11999E ;
+  margin:10px 20px;
+  text-decoration: none;
+}
+.footer-link:hover{
+
+  color: #cbf1f5;
+}
+.copyright{
+  font-family: 'Muli', sans-serif;
+  color: #cbf1f5;
+  font-size: 0.75rem;
+}
+
+hr{
+  border-style:dotted none none;
+  border-color: #cbf1f5;
+  width:5%;
+  height:0;
+  border-width: 7px;
+  padding-bottom: 50px;
+
+
+}
+.text{
+  width:40%;
+  text-align: center;
+  margin:0 auto;
+
+
+}
+.topCloud{
+  position: absolute;
+  right:30%;
+  top:5%;
+}
+.bottomCloud{
+  position: absolute;
+  float:left;
+  
+}
+.profile{
+  margin-top: 1%;
+}
+.skill-row1{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 1.5;
+}
+.code{
+  width:20%;
+  height:20%;
+  float:left;
+  margin-right: 10%;
+
+
+}
+.skill-row2{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 1.5;
+}
+.music{
+  width:20%;
+  height:40%;
+  float:right;
+  margin-left: 10%;
+
+
+}
+.footy{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 1.5;
+}
+.football{
+  width:20%;
+  height:40%;
+  float:left;
+  margin-right: 10%;
+}
+.center{
+  width:30%;
+  margin:50px auto 50px auto;
+}
+.btn{
+
+
+
+
+  color: white;
+  padding: 10px 10px;
+  background: #3D94F6;
+  border-radius: 10px;
+  text-decoration: none;
+  text-shadow: 2px;
+  font-family: 'Muli', sans-serif;
+   
+}
+
+.btn:hover{
+  background: #11999e;
+  text-decoration: underline;
+}
+
+.contact-me{
+  padding-bottom: 150px;
+  text-align: center;
+}
+.contact-me a{
+  font-size: 12px;
+}
